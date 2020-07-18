@@ -7,9 +7,9 @@
 > - ### [Books](#books)
 > - ### [Labs](#labs)
 > - ### [Learning](#learning)
-> 	- *[Reverse Engineering](#reverse-engineering)*
-> 	- *[Web](#web)*
->	- *[Networking](#networking)*
+> 	- * [Reverse Engineering](#reverse-engineering) *
+> 	- * [Web](#web) *
+>	- * [Networking](#networking) *
 
 <!-- End Table of Contents-->
 
@@ -37,7 +37,7 @@
 
 [Back to Top](#)
 
-*Reverse-Engineering*
+*Reverse Engineering*
 
 *Web*
 
