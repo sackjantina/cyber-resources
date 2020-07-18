@@ -6,6 +6,7 @@
 
 > ### [Books](#books)
 > ### [Labs](#labs)
+> ### [Learning](#learning)
 
 <!-- End Table of Contents-->
 
@@ -17,7 +18,7 @@
 
 [Back to Top](#)
 
-* Hacking: The Art of Exploitation by Jon Erickson
+* ***Hacking: The Art of Exploitation*** by Jon Erickson
 
 ### Labs
 
@@ -28,5 +29,9 @@
 * [OTW Wargames](https://overthewire.org/wargames/) - Over The Wire Wargames. A bunch of SSH servers with capture-the-flag like challenges to do. Start with Bandit and work your way up.
 
 * [HTB](https://www.hackthebox.eu/) - Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
+
+### Learning
+
+[Back to Top](#)
 
 <!-- End List-->
