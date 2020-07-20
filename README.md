@@ -21,12 +21,12 @@
 
 [Back to Top](#table-of-contents)
 
-- ***Hacking: The Art of Exploitation*** by Jon Erickson
-- ***The Hacker Playbook 3: Practical Guide To Penetration Testing*** by Peter Kim
-- ***Black Hat Go:*** **Go Programming for Hackers and Pentesters** by Jon Steele, Chris Patten, & Dann Kottmann
-- ***Black Hat Python:*** **Python Programming for Hackers and Pentesters** by Justin Seitz
-- ***Violent Python:*** **A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers** by TJ O'Connor
-- ***Hacking the Xbox*** by Andrew "Bunnie" Huang (MIT Grad)
+- ***Hacking: The Art of Exploitation*** by Jon Erickson (Great book for someone that knows nothing
+- ***The Hacker Playbook 3:*** **Practical Guide To Penetration Testing** by Peter Kim (Not for beginners)
+- ***Black Hat Go:*** **Go Programming for Hackers and Pentesters** by Jon Steele, Chris Patten, & Dann Kottmann (Haven't read)
+- ***Black Hat Python:*** **Python Programming for Hackers and Pentesters** by Justin Seitz (Haven't read)
+- ***Violent Python:*** **A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers** by TJ O'Connor (Haven't Read)
+- ***Hacking the Xbox*** by Andrew "Bunnie" Huang an MIT Grad (Haven't read)
 
 #### Not Cyber Security Related
 - ***Machine Learning with Python for Everyone*** by Mark E. Fenner
@@ -36,11 +36,11 @@
 
 [Back to Top](#table-of-contents)
 
-- [NPS Labtainers](https://nps.edu/web/c3o/labtainers) - Naval Postgraduate School's docker framework that they use for their MS in cyber security degree
+- [OTW Wargames](https://overthewire.org/wargames/) - Over The Wire Wargames. A bunch of SSH servers with capture-the-flag like challenges to do. Start with Bandit and work your way up. (Great for absolute beginners)
 
-- [OTW Wargames](https://overthewire.org/wargames/) - Over The Wire Wargames. A bunch of SSH servers with capture-the-flag like challenges to do. Start with Bandit and work your way up.
+- [NPS Labtainers](https://nps.edu/web/c3o/labtainers) - Naval Postgraduate School's docker framework that they use for their MS in cyber security degree. Great for practicing real skills inside of virtual machines. Best route to get these working is to get a Ubuntu VM running (20.04 LTS worked for me) and then let their install script configure everything for you.
 
-- [HTB](https://www.hackthebox.eu/) - Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
+- [HTB](https://www.hackthebox.eu/) - Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. (GREAT resource once you somewhat know what you're doing... beginners, don't start here)
 
 ### Learning
 
