@@ -22,6 +22,7 @@
 [Back to Top](#table-of-contents)
 
 - ***Hacking: The Art of Exploitation*** by Jon Erickson
+- ***The Hacker Playbook 3: Practical Guide To Penetration Testing*** by Peter Kim
 - ***Black Hat Go:*** **Go Programming for Hackers and Pentesters** by Jon Steele, Chris Patten, & Dann Kottmann
 - ***Black Hat Python:*** **Python Programming for Hackers and Pentesters** by Justin Seitz
 - ***Violent Python:*** **A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers** by TJ O'Connor
