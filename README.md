@@ -19,7 +19,7 @@
 
 ### Books
 
-[Back to Top](#)
+[Back to Top](#table-of-contents)
 
 - ***Hacking: The Art of Exploitation*** by Jon Erickson
 - ***Black Hat Go:*** **Go Programming for Hackers and Pentesters** by Jon Steele, Chris Patten, & Dann Kottmann
@@ -33,7 +33,7 @@
 
 ### Labs
 
-[Back to Top](#)
+[Back to Top](#table-of-contents)
 
 - [NPS Labtainers](https://nps.edu/web/c3o/labtainers) - Naval Postgraduate School's docker framework that they use for their MS in cyber security degree
 
@@ -43,9 +43,11 @@
 
 ### Learning
 
-[Back to Top](#)
+[Back to Top](#table-of-contents)
 
 #### *Reverse Engineering*
+
+- [radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/) - A journey into Radare 2 – Part 1: Simple crackme
 
 #### *Web*
 
