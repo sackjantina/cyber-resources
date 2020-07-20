@@ -22,6 +22,16 @@
 [Back to Top](#)
 
 - ***Hacking: The Art of Exploitation*** by Jon Erickson
+- ***Black Hat Go:*** *Go Programming for Hackers and Pentesters* by Jon Steele, Chris Patten, & Dann Kottmann
+- ***Black Hat Python: Python Programming for Hackers and Pentesters*** by Justin Seitz
+- ***Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers*** by TJ O'Connor
+- ***Hacking the Xbox*** by Andrew "Bunnie" Huang (MIT Grad)
+
+Not Cyber Security Related
+---
+
+- ***Machine Learning with Python for Everyone*** by Mark E. Fenner
+- ***Introducing Machine Learning*** by Dino & Francesco Esposito
 
 ### Labs
 
