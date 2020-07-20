@@ -27,9 +27,7 @@
 - ***Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers*** by TJ O'Connor
 - ***Hacking the Xbox*** by Andrew "Bunnie" Huang (MIT Grad)
 
-Not Cyber Security Related
----
-
+####Not Cyber Security Related
 - ***Machine Learning with Python for Everyone*** by Mark E. Fenner
 - ***Introducing Machine Learning*** by Dino & Francesco Esposito
 
