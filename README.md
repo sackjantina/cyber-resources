@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-> - ### [Books](#books)
-> - ### [Labs](#labs)
-> - ### [Learning](#learning)
-> 	- [Reverse Engineering](#reverse-engineering)
-> 	- [Web](#web)
->	- [Networking](#networking)
+- [Books](#books)
+- [Labs](#labs)
+- [Learning](#learning)
+	- [Reverse Engineering](#reverse-engineering)
+	- [Web](#web)
+	- [Networking](#networking)
 
 <!-- End Table of Contents-->
 
