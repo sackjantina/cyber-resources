@@ -10,6 +10,7 @@
 	- [Reverse Engineering](#reverse-engineering)
 	- [Web](#web)
 	- [Networking](#networking)
+	- [Machine Learning](#machine-learning)
 	- [Operating System's](#operating-systems)
 
 <!-- End Table of Contents-->
@@ -30,6 +31,7 @@
 - ***Hacking the Xbox*** by Andrew "Bunnie" Huang an MIT Grad (Haven't read)
 
 #### Not Cyber Security Related
+
 - ***Machine Learning with Python for Everyone*** by Mark E. Fenner
 - ***Introducing Machine Learning*** by Dino & Francesco Esposito
 
@@ -57,8 +59,13 @@
 
 - [tcpdump](https://danielmiessler.com/study/tcpdump/) - Tutorial to show you how to isolate traffic in various ways—from IP, to port, to protocol, to application-layer traffic—to make sure you find exactly what you need as quickly as possible.
 
+#### *Machine Learning*
+
+- [Very Brief Introduction to Machine Learning for AI](http://www.iro.umontreal.ca/~pift6266/H10/notes/mlintro.html#intelligence) - A *not* so brief introduction to ML
+
 #### *Operating Systems*
 
 - [How To Program Your Very Own Operating Systems (OS)](https://www.whoishostingthis.com/resources/os-development/)
+- [OSDEV.org](https://wiki.osdev.org/Main_Page) - Useful wiki page for OS development
 
 <!-- End List-->
