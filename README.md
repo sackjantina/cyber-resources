@@ -10,6 +10,7 @@
 	- [Reverse Engineering](#reverse-engineering)
 	- [Web](#web)
 	- [Networking](#networking)
+	- [Operating System's](#operating-systems)
 
 <!-- End Table of Contents-->
 
@@ -55,5 +56,9 @@
 #### *Networking*
 
 - [tcpdump](https://danielmiessler.com/study/tcpdump/) - Tutorial to show you how to isolate traffic in various ways—from IP, to port, to protocol, to application-layer traffic—to make sure you find exactly what you need as quickly as possible.
+
+#### *Operating Systems*
+
+- [How To Program Your Very Own Operating Systems (OS)](https://www.whoishostingthis.com/resources/os-development/)
 
 <!-- End List-->
