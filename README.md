@@ -12,6 +12,7 @@
 	- [Networking](#networking)
 	- [Machine Learning](#machine-learning)
 	- [Operating System's](#operating-systems)
+	- [Radio Stuff](#radio-stuff)
 
 <!-- End Table of Contents-->
 
@@ -67,5 +68,9 @@
 
 - [How To Program Your Very Own Operating Systems (OS)](https://www.whoishostingthis.com/resources/os-development/)
 - [OSDEV.org](https://wiki.osdev.org/Main_Page) - Useful wiki page for OS development
+
+#### *Radio Stuff*
+
+- [Hacking Satellites](https://nyan-sat.com/chapter0.html)
 
 <!-- End List-->
